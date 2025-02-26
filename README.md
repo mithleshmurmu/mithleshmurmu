@@ -3,7 +3,7 @@
 ## <h2 align="left">Hello there! 👋 I'm Mithlesh Murmu.</h2>
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-<div align="left">
+<div>
   
 ## 🚀 About Me
 I'm an **HPC/Linux Administrator** with a passion for high-performance computing, system optimization, and Linux-based infrastructure. I specialize in managing large-scale computational clusters, automating workflows, and ensuring system reliability.
