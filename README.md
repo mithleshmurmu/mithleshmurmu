@@ -20,7 +20,7 @@ I'm an **HPC/Linux Administrator** with a passion for high-performance computing
 🚧 Optimizing HPC clusters for enhanced performance.
 🚀 Automating infrastructure management with Ansible & Terraform.
 
-
+<!--
 ## 📫 Let's Connect
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 - GitHub: [Your GitHub Profile](https://github.com/yourusername)
@@ -33,6 +33,7 @@ I'm an **HPC/Linux Administrator** with a passion for high-performance computing
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 Thanks for stopping by! 😊🚀
+-->
 
 <!--
 **mithleshmurmu/mithleshmurmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
