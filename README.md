@@ -23,7 +23,6 @@ I'm an **HPC/Linux Administrator** with a passion for high-performance
 - **Operating Systems:** Linux (RHEL, Ubuntu, CentOS), FreeBSD
 - **HPC Tools:** Slurm, OpenMPI, CUDA, Singularity
 - **Scripting & Automation:** Bash, Python, Ansible, Terraform
-<!-- - **Networking:** TCP/IP, DNS, DHCP, Firewalls -->
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
 - **Cloud & Virtualization:** AWS, OpenStack, Docker, Kubernetes
 - **Version Control:** Git, GitHub, GitLab
@@ -31,6 +30,7 @@ I'm an **HPC/Linux Administrator** with a passion for high-performance
 ## 🔥 What I'm Currently Working On
 🚧 Optimizing HPC clusters for enhanced performance.
 🚀 Automating infrastructure management with Ansible & Terraform.
+
 
 <!--
 ## 📫 Let's Connect
@@ -45,6 +45,18 @@ I'm an **HPC/Linux Administrator** with a passion for high-performance
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 Thanks for stopping by! 😊🚀
+-->
+
+
+<!--
+## 💻 Tech Stack
+- **Operating Systems:** Linux (RHEL, Ubuntu, CentOS), FreeBSD
+- **HPC Tools:** Slurm, OpenMPI, CUDA, Singularity
+- **Scripting & Automation:** Bash, Python, Ansible, Terraform
+- **Networking:** TCP/IP, DNS, DHCP, Firewalls
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **Cloud & Virtualization:** AWS, OpenStack, Docker, Kubernetes
+- **Version Control:** Git, GitHub, GitLab
 -->
 
 <!--
