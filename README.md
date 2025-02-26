@@ -7,6 +7,7 @@
 I'm an **HPC/Linux Administrator** with a passion for high-performance computing, system optimization, and Linux-based infrastructure. I specialize in managing large-scale computational clusters, automating workflows, and ensuring system reliability.
 
 <div align="left">
+  
 ## 💻 Tech Stack
 - **Operating Systems:** Linux (RHEL, Ubuntu, CentOS), FreeBSD
 - **HPC Tools:** Slurm, OpenMPI, CUDA, Singularity
