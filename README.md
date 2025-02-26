@@ -7,6 +7,7 @@
 I'm an **HPC/Linux Administrator** with a passion for high-performance computing, system optimization, and Linux-based infrastructure. I specialize in managing large-scale computational clusters, automating workflows, and ensuring system reliability.
 </br>
 
+<!--
 ## 🚀 About Me
 **Passionate about HPC and Linux infrastructure.**
 I'm an **HPC/Linux Administrator** with a passion for high-performance
@@ -15,6 +16,7 @@ I'm an **HPC/Linux Administrator** with a passion for high-performance
 🔹 Passionate about **high-performance computing (HPC)** and **Linux-based infrastructure**  
 🔹 Experienced in **managing large-scale computational clusters** and **system optimization**  
 🔹 Focused on **automation, scalability, and system reliability**  
+-->
 
 ## 💻 Tech Stack
 - **Operating Systems:** Linux (RHEL, Ubuntu, CentOS), FreeBSD
