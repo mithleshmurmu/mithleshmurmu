@@ -15,6 +15,12 @@ I'm an **HPC/Linux Administrator** with a passion for high-performance computing
 - **Cloud & Virtualization:** AWS, OpenStack, Docker, Kubernetes
 - **Version Control:** Git, GitHub, GitLab
 
+
+## 🔥 What I'm Currently Working On
+🚧 Optimizing HPC clusters for enhanced performance.
+🚀 Automating infrastructure management with Ansible & Terraform.
+
+
 <!--
 **mithleshmurmu/mithleshmurmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
