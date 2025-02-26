@@ -14,6 +14,11 @@ I'm an **HPC/Linux Administrator** with a passion for high-performance computing
 **Passionate about HPC and Linux infrastructure.**
 I'm an **HPC/Linux Administrator** with a passion for high-performance
 
+### 🚀 About Me  
+🔹 Passionate about **high-performance computing (HPC)** and **Linux-based infrastructure**  
+🔹 Experienced in **managing large-scale computational clusters** and **system optimization**  
+🔹 Focused on **automation, scalability, and system reliability**  
+
 ## 💻 Tech Stack
 - **Operating Systems:** Linux (RHEL, Ubuntu, CentOS), FreeBSD
 - **HPC Tools:** Slurm, OpenMPI, CUDA, Singularity
